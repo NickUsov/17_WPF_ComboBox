@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\bin\Debug\17_WPF_ComboBox.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\bin\Debug\17_WPF_ComboBox.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\bin\Debug\17_WPF_ComboBox.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\_17_WPF_ComboBox.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\17\17_WPF_ComboBox\17_WPF_ComboBox\17_WPF_ComboBox\obj\Debug\17_WPF_ComboBox.pdb
